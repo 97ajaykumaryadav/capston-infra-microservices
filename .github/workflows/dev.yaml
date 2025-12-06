@@ -1,4 +1,4 @@
-name: todoinfra
+name: capston-todoinfra
 on:
   push:
     branches:

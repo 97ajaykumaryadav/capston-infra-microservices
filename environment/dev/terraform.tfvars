@@ -1,6 +1,6 @@
 resource_group = {
   rg1 = {
-     name = "k8s-dev-rg"
+     name = "rg-capston-dev-cin-001"
   location = "central india"
   
 }
